@@ -1,0 +1,13 @@
+server:
+  port: 80
+
+testaaaaa: aaaaaa
+
+enterprise:
+  name: zs
+  age: 16
+  tel: 4000000
+  subject:
+    - java
+    - 前端
+    - 大数据
